@@ -1,0 +1,21 @@
+﻿Here are some sample test cases you might want to run:
+
+1. **Basic Input**
+   - Input: `222#`
+   - Output: `C`
+
+2. **Multiple Characters Sequence**
+   - Input: `234#`
+   - Output: `ADG`
+
+3. **Backspace Operation**
+   - Input: `22*3#`
+   - Output: `D`
+
+4. **Complex Sequence with Backspaces**
+   - Input: `234*5*6767#`
+   - Output: `ADMPMP`
+
+5. **No Input Before `#`**
+   - Input: `#`
+   - Output: `""` (empty string)
