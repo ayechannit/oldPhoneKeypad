@@ -1,0 +1,6 @@
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.exe.config
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.exe
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\bin\Debug\OldPhonePad.pdb
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.csprojResolveAssemblyReference.cache
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.exe
+D:\Zueonlineshop\OldPhonePad\OldPhonePad\obj\Debug\OldPhonePad.pdb
